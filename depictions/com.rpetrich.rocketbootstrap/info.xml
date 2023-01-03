@@ -1,0 +1,16 @@
+<package>
+	<id>com.rpetrich.rocketbootstrap</id>
+	<name>RocketBootstrap</name>
+	<version>1.1.0~libhooker2</version>
+	<dependencies>
+          <dependency>org.coolstar.libhooker</dependency>
+        </dependencies>
+	<descriptionlist>
+		<description></description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
